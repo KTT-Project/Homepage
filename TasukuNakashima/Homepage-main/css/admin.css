@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    background-color: #800000;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.new-span {
+    font-size: small;
+    color: gray;
+    margin-right: 20px;
+}
+.new {
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.new li {
+    list-style: none;
+    margin-left: 10px;
+}
+.information {
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.information table {
+    border-collapse:collapse;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 500px){
+    .information table {
+        margin-left: 0px;
+    }
+}
+.information table th {
+    background-color: rgb(164, 217, 238);
+}
+.information table td,th {
+    border: 1px black solid;
+    padding: 5px 10px;
+}
+.server {
+    margin-left: 30px;
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="ktt_logo" viewBox="0 0 1000 714">
+  <clipPath id="clip">
+    <path d="M0,0 h1000 v714 h-1000 v-714z" />
+  </clipPath>
+  <path fill="#920101" clip-path="url(#clip)" d="M0,0 h1000 v714 h-90 v-604 h-820 v603 h-90z M0,300 h1000 v110 h-1000z M305,0 h145 l605,714 h-145z M550,0 h145 l-605,714 h-145" />
+</svg>
